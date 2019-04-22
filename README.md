@@ -1,6 +1,6 @@
 # wireless-individual-encryption
 
-The Wireless Individual Encryption protocol, created and designed by Artem Sviridov
+The Wireless Individual Encryption protocol, created and designed by Artem Sviridov,
 aims to become a standard security protocol for establishing encrypted communication
 and identificationbetween internet access points and personal computers in online
 communication. The usage of WIE technology ensures that all data transmitted between
